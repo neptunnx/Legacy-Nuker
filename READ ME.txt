@@ -1,0 +1,3 @@
+Run install.bat to install modules.
+Make sure you have python installed.
+Even after installing all modules go to cmd and do - pip install term color - it has a bug lol.

@@ -1,0 +1,9 @@
+termcolor
+colored
+discord
+aiohttp
+datetime
+requests
+asyncio
+psutil
+pystyle
